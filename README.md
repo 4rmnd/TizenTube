@@ -1,42 +1,13 @@
-# ▶️ TizenTube
-<p align="center">
-    <img width="600px" src=".github/assets/TizenTube Standalone Banner.png">
-    <br>
-    <sub> TizenTube logo, banner and README by <a href="https://github.com/Zyborg777">@Zyborg777</a> </sub>
-</p>
+# TizenTube (Tric Tube Adblock Edition)
 
-**TizenTube** is a TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock. **Now works as a standalone app!**
+Repositori ini adalah fork publik dari proyek [TizenTube oleh reisxd](https://github.com/reisxd/TizenTube), dilisensikan di bawah **GNU General Public License v3.0 (GPL-3.0)**.
 
-** **
-🤖 **Looking for an app for Android TVs?** Check out [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt). It offers everything TizenTube has for Android TVs.
+## Tujuan Fork
+Menyajikan satu modul skrip pemblokir iklan mandiri (`trictube.js`) yang dioptimalkan untuk aplikasi pembungkus Android TV **Tric Tube** pada perangkat Xiaomi Mi Box 3.
 
+## Branch Distribution
+- `release`: Menyajikan file skrip `trictube.js` yang telah dipin dan diuji.
+- `main`: Mengikuti upstream resmi `reisxd/TizenTube`.
 
-<p align="left">
-    <a href="https://github.com/reisxd/TizenTubeCobalt/releases/latest">
-        <picture>
-            <img width="250px"
-                src=".github/assets/TizenTube_Cobalt_dl-button.png" />
-        </picture>
-    </a>
-</p>
-
-## ❓ How to install
-
-Follow the guide in the [Installation Guide](./docs/README.md).
-
-## ✨ Features
-- 📺 **Picture-in-Picture Mode**
-- 🛑 **Ad Blocker**: Enjoy your favourite streaming website without interruptions from ads.
-- ❗ **SponsorBlock Support**: Automatically skip sponsored segments in videos.
-- ⏭️ **Video Speed Control**: Adjust playback speed to your preference.
-- 🔺 **[DeArrow](https://dearrow.ajay.app/) Support**: Remove clickbait and misleading video titles.
-- ➕ **More to come!** Request features via [issues](https://github.com/reisxd/TizenTube/issues/new).
-
-## 🌐 Community and Support 
-| Links |
-| ------------- |
-| [r/TizenTube Subreddit](https://www.reddit.com/r/TizenTube/)  |
-| [Discord Server](https://discord.gg/m2P7v8Y2qR)  | 
-| [Telegram](https://t.me/tizentubeofficial)  |
-| [Matrix Space](https://matrix.to/#/!BLE5ubNYktI30e8K0j:matrix.6513006.xyz)  |
-| [Report Issues / Request Features](https://github.com/reisxd/TizenTube/issues)  |
+## Lisensi & Hak Cipta
+Hak cipta asli milik Reis Can (`reisxd`) dan kontributor TizenTube. Seluruh modifikasi dilisensikan di bawah ketentuan GPL-3.0. Lihat file [LICENSE](LICENSE) dan [CHANGES-TRICTUBE.md](CHANGES-TRICTUBE.md).
